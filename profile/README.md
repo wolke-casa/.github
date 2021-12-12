@@ -15,4 +15,4 @@ Wolke is cloud in German according to [Google](https://translate.google.com/?sl=
 
 # License
 
-MIT
+All repositories in this organization are licensed with the MIT license
