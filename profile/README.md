@@ -13,6 +13,8 @@ Wolke is cloud in German according to [Google](https://translate.google.com/?sl=
 
 **[API](https://github.com/wolke-gallery/api)** - The API behind Wolke that powers image processing and storage aswell as user management
 
+**[Bot](https://github.com/wolke-gallery/bot)** - The Discord bot that acts as a frontend for Wolke
+
 # License
 
 All repositories in this organization are licensed with the MIT license
