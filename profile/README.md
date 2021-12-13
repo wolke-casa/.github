@@ -11,7 +11,7 @@ Wolke is cloud in German according to [Google](https://translate.google.com/?sl=
 
 # Repositories
 
-**[API](https://github.com/wolke-gallery/api)** - The API behind Wolke that powers image processing and storage
+**[API](https://github.com/wolke-gallery/api)** - The API behind Wolke that powers image processing and storage aswell as user management
 
 # License
 
