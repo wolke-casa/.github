@@ -15,6 +15,8 @@ Wolke is cloud in German according to [Google](https://translate.google.com/?sl=
 
 **[Bot](https://github.com/wolke-gallery/bot)** - The Discord bot that acts as a frontend for Wolke
 
+**[Deploy](https://github.com/wolke-gallery/deploy)** - Instructions on deploying Wolke soonTM
+
 # License
 
 All repositories in this organization are licensed with the MIT license
