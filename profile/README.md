@@ -15,7 +15,7 @@ Wolke is cloud in German according to [Google](https://translate.google.com/?sl=
 
 **[Bot](https://github.com/wolke-casa/bot)** - The Discord bot that acts as a frontend for Wolke
 
-**[Deploy](https://github.com/wolke-casa/deploy)** - Instructions on deploying Wolke soonTM
+**[Deploy](https://github.com/wolke-casa/deploy)** - Instructions on deploying Wolke
 
 # License
 
